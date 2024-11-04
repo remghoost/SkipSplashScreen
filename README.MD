@@ -30,7 +30,6 @@ If you're not comfortable downloading a random `.dll` from a stranger on the int
 
 ---
 ## Considerations
-- Shoutout to ChatGPT for always being a homie
-- I probably didn't get every edge case (though I got a bunch of them). 
+- Shoutout to ChatGPT for always being a homie 
 - Submit an issue if you find something wonky.
 - **This mod might break some things (it shouldn't though) and comes with no warranty!**
