@@ -2,6 +2,10 @@
 
 **This mod skips the splash screen.**
 
+The splash screen is so quick that I doubt this will be useful to anyone but modders. 
+
+But here you go if you want it anyways.
+
 ---
 
 ## Requirements and setup
